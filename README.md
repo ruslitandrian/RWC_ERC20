@@ -41,6 +41,10 @@ contract Token is ERC20 {
 
 發行:
 - ENVIRONMENT 換成 Inject Provider, 這時會自動開你的瀏覽器安裝的錢包
+- 錢包那邊請按確認，過一段時間後就開 https://bscscan.com/tx/0x62b09e18cfa0793211af14b148da93dd0520961c3d635f9a26d5f06fe0d95933
+- 複製 Interacted With (To) 的 幣種 Contract
+- 到你的情包，增加自動貨幣，貼上該 Contract 
+
 
 ## License
 MIT
